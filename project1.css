@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: lightcyan;
+}
+h1{
+    text-transform: uppercase;
+}
+input:hover{
+    background-color: red;
+    border-radius: 50%;
+    
+}
